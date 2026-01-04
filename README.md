@@ -1,2 +1,1 @@
-# Yuki
-Yuki is an advanced, real-time digital assistant.
+# Y.U.K.I Your User Knit Intelligence (Name in progress)
